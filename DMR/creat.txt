@@ -1,0 +1,2 @@
+mpiifort -mkl -r8 -o all cons.for matrix_inverse.for allocate_memory.for exactsolu.for para.for setdt.for rungekutta.for boundary.for initial.for getrhs.for output.for main.for 
+
